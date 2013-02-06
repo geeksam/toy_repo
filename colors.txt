@@ -1,3 +1,7 @@
 Red
 Green
 Blue
+Cyan
+Magenta
+Yellow
+Black
